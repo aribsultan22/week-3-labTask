@@ -1,0 +1,17 @@
+{
+  
+  "name": "week3-ci-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
